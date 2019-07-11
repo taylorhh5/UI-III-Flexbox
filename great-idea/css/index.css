@@ -296,6 +296,19 @@ font-size: 500px;
   font-weight:800;
 
 }
+
+  
+
+
+.idpic{
+  border:1px solid red;
+  margin: 5px 50px 50px 10px;
+  height:700px;
+  width:300px;
+}
+
+
+
 .boxcontainer .box{
   border: 1px solid black;
   height: 250px;
@@ -305,6 +318,8 @@ font-size: 500px;
   padding: 20px;
   background:rgba(237, 239, 255, 0.932);
 }
+
+
 
 .boxcontainer  {
 
