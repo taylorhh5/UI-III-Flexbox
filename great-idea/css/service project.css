@@ -263,8 +263,7 @@ footer {
 
 
 .services{
-  display:;
-  border: 1px solid red;
+  
   margin: 10px 20px 20px 20px;
   font-style: bold;
   font-size:20px;
@@ -282,7 +281,7 @@ margin: 0px 190px 25px 100px;
 font-size: 300px;
 }
 .boxcontainer .box{
-  border: 1px solid green;
+  border: 1px solid blue;
   height: 200px;
   width: 350px;
   margin: 90px;
@@ -290,6 +289,8 @@ font-size: 300px;
 
 .boxcontainer  {
 
+    
+border-top: 20px solid blue;
 display:flex;
 flex-direction:row;
 flex-flow: row wrap;

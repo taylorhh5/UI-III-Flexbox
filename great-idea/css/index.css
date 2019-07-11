@@ -263,29 +263,47 @@ footer {
 
 
 .services{
-  display:;
-  border: 1px solid red;
-  margin: 10px 20px 20px 20px;
+  
+  
+  margin:30px 20px 50px 110px;
   font-style: bold;
-  font-size:20px;
-}
-.services-header-img{
-  width:80%;
-  margin: 5px 10px 10px 100px;
+  font-size:18px;
+  width: 85%;
   
 }
-.headerclass {
+.services-header-img{
+  width:85%;
+  margin: 5px 0px 10px 110px;
+  
+}
+
+
+}
+  .services .servi h1 {
+    border: 5px solid red;
+  font-size:500px;
+}
+.headerclass  {
   display:flex;
   justify-content: space-between;
  
-margin: 0px 190px 25px 100px;
-font-size: 300px;
+margin: 0px 200px 25px 115px;
+font-size: 500px;
+}
+
+.headerclass nav a{
+  font-size: 17px;
+  font-weight:800;
+
 }
 .boxcontainer .box{
-  border: 1px solid green;
-  height: 200px;
-  width: 350px;
-  margin: 90px;
+  border: 1px solid black;
+  height: 250px;
+  width: 550px;
+  margin: 30px;
+  font-weight:500;
+  padding: 20px;
+  background:rgba(237, 239, 255, 0.932);
 }
 
 .boxcontainer  {
@@ -294,6 +312,50 @@ display:flex;
 flex-direction:row;
 flex-flow: row wrap;
 justify-content: space-evenly;
+border-top: 1px solid black;
+margin-bottom: 20px;
 
 
+
+}
+.learn {
+  border: 1px solid black;
+  margin-top:25px;
+  margin-left:10px;
+ width: 40%;
+ height: 30px;
+ border-radius:5px;
+ text-align:center;
+ padding-top: 5px;
+}
+
+.bottomcontain{
+  display:flex;
+flex-direction:row;
+flex-flow: row wrap;
+justify-content: space-evenly;
+border-top: 3px solid black;
+
+
+}
+
+.bottomcontain .box{
+
+  
+  height: 250px;
+  width: 550px;
+  margin: 90px;
+  font-weight:500;
+  
+}
+
+.cright{
+ 
+  text-align:center;
+  font-weight:900;
+  margin-bottom:100px;
+}
+.list li {
+margin:20px 0;
+  font-size:18px;
 }
